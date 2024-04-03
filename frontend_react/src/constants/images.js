@@ -15,8 +15,14 @@ import python from '../assets/python.png';
 import react from '../assets/react.png';
 import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
+import sql from '../assets/sql.png'
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
+import mysql from '../assets/mysql.png'
+import postgresql from '../assets/postgresql.png'
+import mongodb from '../assets/mongodb.png'
+import rubyonrails from '../assets/rubyonrails.png'
+import sap from '../assets/sap.png'
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -52,6 +58,7 @@ const assets = {
   python,
   react,
   redux,
+  sql,
   sass,
   typescript,
   vue,
@@ -69,6 +76,11 @@ const assets = {
   nb,
   skype,
   spotify,
+  sap,
+  mysql,
+  postgresql,
+  mongodb,
+  rubyonrails,
 };
 
 export default assets;
